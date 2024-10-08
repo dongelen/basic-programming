@@ -2,7 +2,7 @@
 
 We will use Microsoft Visual Studio Code. 
 
-##0 
+## 0 
 Before we start we need to install Node. Node is needed for the excercises. 
 
 First step is to install homebrew:
